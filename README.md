@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Mike</h1>
-#### I am a Junior .Net Software Engineer with a passion for developing business solutions!
+#### I am a .Net Software Engineer with a passion for developing business solutions!
 
 ## What I Am Working On
 A dispatch and management system for a local Refuse Company. The public repos RefuseServiceApp, RefuseManagementPortal, and RefuseServiceAPI. This project is currently deployed on Azure and is a way for me to continue to develop my proficiency maintaining a relational database and developing cross-platform Mobile applications, Restful Web APIs, and WebAssemblys.
