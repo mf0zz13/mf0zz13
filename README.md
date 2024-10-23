@@ -8,7 +8,6 @@ A dispatch and management system for a local Refuse Company. The public repos Re
 How to utilize Microsoft Azure Entra ID to provide secure access to my project
 
 ## What I Want To Learn Next
-* JavaScript
 * Spring Boot
 * MongoDB
 
