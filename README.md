@@ -1,4 +1,4 @@
-# Hi, I'm Michael Foster
+# Hi, I'm Mike
 
 I'm completing a bachelor's degree in Computer Science with a concentration in Software Engineering. My primary interests are C#/.NET backend development, cloud-connected applications, and the testing and debugging work that makes software dependable.
 
