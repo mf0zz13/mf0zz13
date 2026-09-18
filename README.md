@@ -2,6 +2,8 @@
 
 I'm completing a bachelor's degree in Computer Science with a concentration in Software Engineering. My primary interests are C#/.NET backend development, cloud-connected applications, and the testing and debugging work that makes software dependable.
 
+My background also includes Microsoft Software and Systems Academy (MSSA) coursework in C#/.NET software development. My [individual assignments](https://github.com/mf0zz13/automatic-garbanzo) cover user interfaces, collections, data structures, algorithms, serialization, and LINQ, while my [team coding exercises](https://github.com/mf0zz13/vigilant-waffle) document collaborative problem-solving practice.
+
 ## Selected engineering work
 
 | Project | What it shows |
